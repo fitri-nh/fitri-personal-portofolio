@@ -15,7 +15,7 @@ const Home = () => {
             {/* name */}
             <div className="text-center xl:text-left order-2 xl:order-none">
               <h2 className="h1">
-                Hello I'm <br /> <span className="text-accent">Fitri Nur Handayani</span>
+                Hello I am <br /> <span className="text-accent">Fitri Nur Handayani</span>
               </h2>
               <p className="max-w-[500px] mb-9 text-white/80"> eager and agile learning who enjoy tech and data </p>
               {/* Socmed button */}
